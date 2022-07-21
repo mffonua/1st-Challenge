@@ -19,7 +19,7 @@ body {
   display: inline-block;
   font-size: 48px;
 }
-
+/*using rem, its working? But is it correct? */
 .header h1 rem {
   color: #d9dcd6;
 }
@@ -45,7 +45,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/*Was not sure what to do with this, so left it until I know how to correctly input*/
 .hero {
   height: 800px;
   width: 100%;
@@ -81,7 +81,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #2589bd;
 }
-
+/* Consolidated so it is more semantical */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -89,7 +89,7 @@ p {
   color: #ffffff;
 }
 
-
+/* Consolidated so it is more semantical */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 
@@ -98,7 +98,7 @@ p {
   text-align: center;
 }
 
-
+/* Consolidated so it is more semantical */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -106,7 +106,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* Consolidated so it is more semantical */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -117,14 +117,14 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* Consolidated so it is more semantical */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img 
 {
   max-height: 200px;
 }
-
+/* Consolidated so it is more semantical */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
